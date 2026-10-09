@@ -10,4 +10,4 @@ Deploy a simple HTML website using GitHub Pages.
 4. Verified the live website deployment.
 
 ## Live Website
-[Insert your GitHub Pages link here once generated]
+https://adhilhameed.github.io/Task-6/
